@@ -1,2 +1,6 @@
-# sql-data-wrehouse-project
-Building a modern data warehouse with SQL Server, including ETL processes, data modeling and analytics.
+# Data warehouse and Analytics Project
+
+### Building The Data WareHouse (Data Engineering)
+
+#### Objective
+Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
